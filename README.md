@@ -1,0 +1,2 @@
+# Parallax
+java script kütüphanesi
